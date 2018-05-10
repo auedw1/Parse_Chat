@@ -2,7 +2,7 @@
 //  ChatViewController.swift
 //  ParseChat
 //
-//  Created by Tavien on 2/26/18.
+//  Created by Austin on 2/26/18.
 //  Copyright © 2018 Warpedflo. All rights reserved.
 //
 

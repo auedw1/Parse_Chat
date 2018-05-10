@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ParseChat
 //
-//  Created by Tavien on 2/25/18.
+//  Created by Austin on 2/25/18.
 //  Copyright © 2018 Warpedflo. All rights reserved.
 //
 
